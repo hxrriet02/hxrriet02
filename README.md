@@ -9,7 +9,7 @@ I code in a few different languages, mainly PHP using the Symfony framework and 
 
 ### 💻 Designing
 
-As well as beening a developer I design and create web pages. If you wanted to view a few designs I've added some concept designs [here](concepts/readme.md).
+As well as beening a developer I design and create web pages. If you wanted to view a few designs I've added some concept designs [here](https://github.com/harry3110/harry3110/blob/main/concepts/README.md).
 
 
 ### ⭐ My favourite projects
