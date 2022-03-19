@@ -1,15 +1,16 @@
 # Hi, I'm Harry 👋
 
-I'm a full stack developer working with PHP on the backend and a few languages including the main frontend stack: HTML, CSS, JS. I love to design and create mostly websites and web applications but also small scripts and programs if I feel like it!
+I'm a full stack developer working with mainly PHP as the backend and a few languages for the frontend stack including HTML, CSS, JS. I love to design and create mostly websites and web applications but I also love to create small scripts and programs if I feel like it!
+
 
 ### 👨‍💻 Coding
 
-I code in a few different languages, mainly PHP using the Symfony framework or Wordpress. But, I also code in Python, and JavaScript (Node, jQuery, etc.)
+I code in a few different languages, mainly PHP using the Symfony framework for bespoke applications or WordPress for plugins and themes. Recently, I have started to code more projects with JavaScript and Node, I would like to start learning TypeScript too. In the past, I have also coded in Python and Visual Basic for Application.
 
 
 ### 💻 Designing
 
-As well as beening a developer I design and create web pages. If you wanted to view a few designs I've added some concept designs [here](https://github.com/harry3110/harry3110/blob/main/concepts/README.md).
+As well as being a developer, I design and create website concepts. If you would like to view a few designs I've created, you can view them [here](https://github.com/harry3110/harry3110/blob/main/concepts/README.md).
 
 
 ### ⭐ My favourite projects
