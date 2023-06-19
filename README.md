@@ -4,7 +4,7 @@ I'm a passionate full-stack developer with expertise in PHP using the Symfony fr
 
 ### 👨‍💻 Coding
 
-In my coding journey, I've worked extensively with PHP and Symfony to build web applications. These technologies have been my go-to choice for developing web applications and leveraging the power of PHP's ecosystem. Recently, I've also been diving into [https://api-platform.com/](API Platform), which allows me to build powerful APIs with ease. Using API Platform, I have decoupled the NextJS/React frontend from the PHP Symfony backend of my applications.
+In my coding journey, I've worked extensively with PHP and Symfony to build web applications. These technologies have been my go-to choice for developing web applications and leveraging the power of PHP's ecosystem. Recently, I've also been diving into [API Platform](https://api-platform.com/), which allows me to build powerful APIs with ease. Using API Platform, I have decoupled the NextJS/React frontend from the PHP Symfony backend of my applications.
 
 Alongside PHP, Symfony, and API Platform, I have experience with various other languages and frameworks. Python has been another valuable tool in my repertoire, allowing me to create smaller, more versatile applications. I've also explored Visual Basic for Applications (VBA), which proved useful for extending the functionality in Excel to the client's needs.
 
