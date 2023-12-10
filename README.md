@@ -1,4 +1,4 @@
-# Hi, I'm Harry 👋
+# Hi, I'm Harriet 👋
 
 I'm a passionate full-stack developer with expertise in PHP using the Symfony framework. I also have experience working with various frontend technologies including TypeScript/JavaScript, SCSS/CSS and I'm actively expanding my skill set by learning React to enhance my frontend development capabilities
 
